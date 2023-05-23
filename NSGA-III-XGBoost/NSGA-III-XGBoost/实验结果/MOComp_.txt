@@ -1,0 +1,8 @@
+HangSeng
+Accuracy:87.62, F1-score:90.15, AUC:86.25, NumofFeature:4
+moNSGA2
+Accuracy:87.62, F1-score:90.15, AUC:86.25, NumofFeature:4
+moawGA
+Accuracy:88.57, F1-score:90.98, AUC:87.02, NumofFeature:8
+moRVEA
+Accuracy:89.05, F1-score:91.25, AUC:87.87, NumofFeature:9

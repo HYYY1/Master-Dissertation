@@ -1,0 +1,8 @@
+HangSeng 所有数据
+Accuracy:81.43, F1-score:85.71, AUC:78.68, NumofFeature:81
+HangSeng 历史数据
+Accuracy:77.62, F1-score:82.53, AUC:75.12, NumofFeature:5
+HangSeng 其他数据
+Accuracy:78.51, F1-score:83.12, AUC:80.70, NumofFeature:18
+HangSeng 特征子集
+Accuracy:90.48, F1-score:92.31, AUC:89.72, NumofFeature:11

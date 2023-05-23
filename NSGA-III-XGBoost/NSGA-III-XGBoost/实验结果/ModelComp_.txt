@@ -1,0 +1,73 @@
+HangSeng RF
+Accuracy:67.62, F1-score:74.44, AUC:64.92
+HangSeng DT
+Accuracy:58.57, F1-score:63.29, AUC:58.70
+HangSeng SVC
+Accuracy:86.67, F1-score:89.47, AUC:85.01
+HangSeng KNN
+Accuracy:84.29, F1-score:87.82, AUC:81.93
+HangSeng ET
+Accuracy:63.81, F1-score:68.07, AUC:64.11
+HangSeng XGB
+Accuracy:81.43, F1-score:85.71, AUC:78.68
+
+HangSeng LSTM-3
+              precision    recall  f1-score   support
+
+         0.0     0.8614    0.8131    0.8365       107
+         1.0     0.8750    0.9091    0.8917       154
+
+    accuracy                         0.8697       261
+   macro avg     0.8682    0.8611    0.8641       261
+weighted avg     0.8694    0.8697    0.8691       261
+
+HangSeng LSTM-2
+              precision    recall  f1-score   support
+
+         0.0     0.8687    0.8037    0.8350       107
+         1.0     0.8704    0.9156    0.8924       154
+
+    accuracy                         0.8697       261
+   macro avg     0.8695    0.8597    0.8637       261
+weighted avg     0.8697    0.8697    0.8689       261
+
+HangSeng LSTM-1
+              precision    recall  f1-score   support
+
+         0.0     0.8421    0.7477    0.7921       107
+         1.0     0.8373    0.9026    0.8688       154
+
+    accuracy                         0.8391       261
+   macro avg     0.8397    0.8251    0.8304       261
+weighted avg     0.8393    0.8391    0.8373       261
+
+HangSeng BiLSTM-1
+              precision    recall  f1-score   support
+
+         0.0     0.8333    0.7009    0.7614       107
+         1.0     0.8129    0.9026    0.8554       154
+
+    accuracy                         0.8199       261
+   macro avg     0.8231    0.8018    0.8084       261
+weighted avg     0.8213    0.8199    0.8169       261
+
+HangSeng BiLSTM-2
+              precision    recall  f1-score   support
+
+         0.0     0.9255    0.8131    0.8657       107
+         1.0     0.8802    0.9545    0.9159       154
+
+    accuracy                         0.8966       261
+   macro avg     0.9029    0.8838    0.8908       261
+weighted avg     0.8988    0.8966    0.8953       261
+
+HangSeng BiLSTM-3
+              precision    recall  f1-score   support
+
+         0.0     0.9310    0.7570    0.8351       107
+         1.0     0.8506    0.9610    0.9024       154
+
+    accuracy                         0.8774       261
+   macro avg     0.8908    0.8590    0.8687       261
+weighted avg     0.8836    0.8774    0.8748       261
+

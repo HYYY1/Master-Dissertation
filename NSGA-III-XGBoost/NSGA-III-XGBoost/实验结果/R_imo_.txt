@@ -1,0 +1,6 @@
+DJIA
+Accuracy:88.93, F1-score:90.54, AUC:88.60, NumofFeature:22
+HangSeng
+Accuracy:90.48, F1-score:92.31, AUC:89.72, NumofFeature:11
+CSI300
+Accuracy:87.36, F1-score:85.71, AUC:87.15, NumofFeature:26
