@@ -1,0 +1,47 @@
+Google KNN
+Accuracy:55.86, Precision:64.83,Recall:59.15,F1-score:61.86,AUC:54.98
+************************************************************
+Amazon KNN
+Accuracy:51.98, Precision:59.48,Recall:51.94,F1-score:55.45,AUC:51.98
+************************************************************
+Apple KNN
+Accuracy:58.97, Precision:62.43,Recall:64.15,F1-score:63.28,AUC:58.38
+************************************************************
+Microsoft KNN
+Accuracy:54.55, Precision:61.90,Recall:54.83,F1-score:58.15,AUC:54.50
+************************************************************
+Tesla KNN
+Accuracy:51.35, Precision:48.57,Recall:48.57,F1-score:48.57,AUC:51.21
+************************************************************
+
+Google Random Forest
+Accuracy:71.91, Precision:77.72,Recall:76.30,F1-score:77.00,AUC:70.58
+************************************************************
+Amazon Random Forest
+Accuracy:55.12, Precision:57.57,Recall:61.81,F1-score:59.62,AUC:54.60
+************************************************************
+Apple Random Forest
+Accuracy:80.65, Precision:82.72,Recall:82.27,F1-score:82.49,AUC:80.45
+************************************************************
+Microsoft Random Forest
+Accuracy:65.18, Precision:67.31,Recall:70.79,F1-score:69.01,AUC:64.59
+************************************************************
+Tesla Random Forest
+Accuracy:59.46, Precision:81.43,Recall:54.81,F1-score:65.52,AUC:62.63
+************************************************************
+
+Google SVM
+Accuracy:56.50, Precision:65.23,Recall:60.21,F1-score:62.62,AUC:55.51
+************************************************************
+Amazon SVM
+Accuracy:50.05, Precision:58.54,Recall:45.25,F1-score:51.04,AUC:50.90
+************************************************************
+Apple SVM
+Accuracy:65.45, Precision:69.79,Recall:65.81,F1-score:67.74,AUC:65.41
+************************************************************
+Microsoft SVM
+Accuracy:61.23, Precision:68.90,Recall:59.58,F1-score:63.90,AUC:61.53
+************************************************************
+Tesla SVM
+Accuracy:58.11, Precision:55.56,Recall:57.14,F1-score:56.34,AUC:58.06
+************************************************************
